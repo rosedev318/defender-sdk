@@ -28,7 +28,7 @@
     "@openzeppelin/defender-sdk-deploy-client": "^1.15.0",
     "@openzeppelin/defender-sdk-notification-channel-client": "^1.15.0",
     "@openzeppelin/defender-sdk-relay-signer-client": "^1.15.0",
-    "@openzeppelin/defender-sdk-network-client": "^1.15.0",
+    "@openzeppelin/defender-sdk-network-client": "^2.6.0",
     "@openzeppelin/defender-sdk-account-client": "^1.15.0",
     "@openzeppelin/defender-sdk-key-value-store-client": "^1.15.0",
     "@openzeppelin/defender-sdk-relay-group-client": "^1.15.0",
