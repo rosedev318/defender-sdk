@@ -1,4 +1,5 @@
 require('dotenv').config();
+
 import { Defender } from '@openzeppelin/defender-sdk';
 
 // Default timeout is not enough, using 15s timeout instead.
