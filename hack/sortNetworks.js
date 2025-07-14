@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const filePath = path.join(__dirname, '..', 'packages', 'base', 'src', 'utils', 'network.ts');
+
 let fileContent = fs.readFileSync(filePath, 'utf8');
 
 // Function to sort networks
